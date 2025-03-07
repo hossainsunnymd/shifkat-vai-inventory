@@ -1,0 +1,29 @@
+1. Migration Files
+2. Model Files
+3. Controller Files
+4. Migration Details
+5. Model Details
+6. Helper Utility
+7. Middleware
+8. CSRF Disable
+9. API Route Install
+10. User Controller Features
+11. Email Config
+12. Category
+---------------
+
+Vue js packages
+- npm i @meforma/vue-toaster  (For tost message)
+- npm i  @vueup/vue-quill  (For Rich text editor)
+- npm i  bootstrap 
+- npm i  chart.js / npm i  vue-chartjs/ apex chart (For using chart)
+- npm i  vue-content-loader (Shimmar Loader)
+- npm i  vue3-circle-progress 
+- npm i  vue3-easy-data-table (For data table)
+- npm i  vue3-lottie (For animation)
+
+---------------
+
+Img/ CSS
+
+
